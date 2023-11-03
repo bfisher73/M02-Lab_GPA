@@ -1,5 +1,5 @@
 #author: Ben Fisher
-#file name: M02_Lab_GPA
+#file name: M02_Lab_GPA.py
 
 #Description: Program will ask for a student name and gpa. It will then determine if that 
 #   student has achieved academic honors. Loop will end when user enters 'ZZZ' for last name.
